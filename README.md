@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是一名SAP开发者，所以我比较擅长使用ABAP语言做开发。
+
+不过我现在正在学习前端编程，我希望结合前端技术，做出更好用的应用。
+
+I am an SAP developer, so I am good at using the ABAP language for development.
+
+But I am now learning front-end programming, I hope to combine front-end technology to make better applications.
+
+
+- 🌱 I’m currently learning Front-end programming
+
+
+
