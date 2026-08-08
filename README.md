@@ -76,8 +76,19 @@ so traditional enterprise systems can feel modern too.
 ## 📊 GitHub 统计 / GitHub Stats
 
 <p align="center">
-  <img alt="Jack's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jack-Liang&show_icons=true&theme=vue&count_private=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Liang&layout=compact&theme=vue">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jack-Liang&theme=vue" />
+</p>
+
+<p align="center">
+  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jack-Liang&theme=vue" />
+</p>
+
+<p align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jack-Liang&theme=vue&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Jack-Liang&theme=vue&hide_border=true" />
 </p>
 
 ---
