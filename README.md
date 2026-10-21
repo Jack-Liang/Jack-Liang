@@ -25,6 +25,7 @@ so traditional enterprise systems can feel modern too.
 
 - 🔧 擅长 / Skilled at：ABAP、SAP 增强与工具开发
 - 🌱 正在学习 / Learning：前端工程（Vue 3 · React · Astro · TypeScript）
+- 🤖 正在探索 / Exploring：AI Agent × SAP —— 让智能体直接操作企业系统（[sap-for-agents](https://github.com/Jack-Liang/sap-for-agents)）
 - 💡 兴趣 / Interested in：ABAP × 现代 Web 技术栈的融合
 - ⚡ 座右铭 / Motto：Saving the World, one line of ABAP at a time.
 
@@ -49,19 +50,23 @@ so traditional enterprise systems can feel modern too.
 ## 🚀 精选项目 / Featured Projects
 
 ### 🔌 连接 SAP 与现代技术 / Bridging SAP & Modern Stack
-- **[sap-for-agents](https://github.com/Jack-Liang/sap-for-agents)** — 用 Rust 调用 SAP RFC，打通企业系统与系统编程世界。
+- **[sap-for-agents](https://github.com/Jack-Liang/sap-for-agents)** ⭐ — 用 Rust 实现的 SAP NWRFC → REST 网关，专为 AI Agent 设计：检索并调用 RFC / BAPI、读取数据表、分析 ST22 短转储、通过 HTTP 直接编辑 ABAP 代码。
 - **[astro-hellosap](https://github.com/Jack-Liang/astro-hellosap)** — 基于 Astro 构建的 HelloSAP 站点。
 - **[stcod-vite-react](https://github.com/Jack-Liang/stcod-vite-react)** — Vite + React 学习实践项目。
 
 ### 🧰 ABAP 开源工具 / ABAP Open-Source Tools
+- **[ABAP-Render-Kit](https://github.com/Jack-Liang/ABAP-Render-Kit)** ⭐ — *"Every old system needs an Ark."* 从 abapGit 提炼的 ABAP 现代 UI 框架，在 SAP GUI 中构建富交互的 HTML 界面。
 - **[DYNAMIC_DATA](https://github.com/Jack-Liang/DYNAMIC_DATA)** ⭐ — 在程序中动态创建 ABAP 嵌套数据类型。
 - **[ZABAP_TOOLS](https://github.com/Jack-Liang/ZABAP_TOOLS)** ⭐ — 常用 ABAP 工具包。
 - **[ZSM30ADDON](https://github.com/Jack-Liang/ZSM30ADDON)** — SM30 表格维护功能增强插件。
+- **[zlog](https://github.com/Jack-Liang/zlog)** — ABAP 消息可追溯：每条面向用户的消息都携带日志 ID，可回查时间、用户、代码位置、调用栈与上下文（基于 SAP BAL）。
+- **[zadv-validator](https://github.com/Jack-Liang/zadv-validator)** — 基于 DDIC 元数据的通用内表校验器：域固定值、检查表、转换例程、货币 / 单位引用，行级 / 字段级精确报错，适配 Excel / CSV 上传场景。
 - **[CFOP_ABAP](https://github.com/Jack-Liang/CFOP_ABAP)** — 用 ABAP 实现 CFOP 法还原三阶魔方（趣味项目）。
 
 ### 🌐 前端 / 博客 / 简历 / Front-end, Blog & Resume
 - **[astro-resume](https://github.com/Jack-Liang/astro-resume)** ⭐ — Astro 简历主题。
 - **[resume-jack-liang](https://github.com/Jack-Liang/resume-jack-liang)** — 基于 Astro 的单作者博客主题（Ovidius）。
+- **[jack-liang.com](https://github.com/Jack-Liang/jack-liang.com)** — 个人网站（Astro）：博客、拾光与随想。
 - **[Jack-Liang.github.io](https://github.com/Jack-Liang/Jack-Liang.github.io)** — 个人博客（Jekyll / PWA）。
 
 ---
@@ -69,6 +74,7 @@ so traditional enterprise systems can feel modern too.
 ## 🤝 社区与开源 / Community & Open Source
 
 - **[kalitools](https://github.com/Jack-Liang/kalitools)** ⭐ **1.3k** — Kali Linux 工具文档汉化公益项目（KTTV），降低更多人接触安全工具的门槛。
+- **[abap-course](https://github.com/Jack-Liang/abap-course)** — 《从零开始的 SAP ABAP 开发实战课程》：24 课时带你掌握 ABAP 开发核心技能。
 - **[dotabap/dotabap-list](https://github.com/dotabap/dotabap-list)** ⭐ — ABAP 开源项目清单贡献者（[dotabap.org](https://dotabap.org)）。
 
 ---
