@@ -85,7 +85,7 @@ so traditional enterprise systems can feel modern too.
 </p>
 
 <p align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jack-Liang&theme=vue&area=true&hide_border=true" />
+  <img alt="Contribution Chart" src="https://ghchart.rshah.org/42B883/Jack-Liang" />
 </p>
 
 <p align="center">
