@@ -51,8 +51,6 @@ so traditional enterprise systems can feel modern too.
 
 ### 🔌 连接 SAP 与现代技术 / Bridging SAP & Modern Stack
 - **[sap-for-agents](https://github.com/Jack-Liang/sap-for-agents)** ⭐ — 用 Rust 实现的 SAP NWRFC → REST 网关，专为 AI Agent 设计：检索并调用 RFC / BAPI、读取数据表、分析 ST22 短转储、通过 HTTP 直接编辑 ABAP 代码。
-- **[astro-hellosap](https://github.com/Jack-Liang/astro-hellosap)** — 基于 Astro 构建的 HelloSAP 站点。
-- **[stcod-vite-react](https://github.com/Jack-Liang/stcod-vite-react)** — Vite + React 学习实践项目。
 
 ### 🧰 ABAP 开源工具 / ABAP Open-Source Tools
 - **[ABAP-Render-Kit](https://github.com/Jack-Liang/ABAP-Render-Kit)** ⭐ — *"Every old system needs an Ark."* 从 abapGit 提炼的 ABAP 现代 UI 框架，在 SAP GUI 中构建富交互的 HTML 界面。
