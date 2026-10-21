@@ -61,11 +61,8 @@ so traditional enterprise systems can feel modern too.
 - **[zadv-validator](https://github.com/Jack-Liang/zadv-validator)** — 基于 DDIC 元数据的通用内表校验器：域固定值、检查表、转换例程、货币 / 单位引用，行级 / 字段级精确报错，适配 Excel / CSV 上传场景。
 - **[CFOP_ABAP](https://github.com/Jack-Liang/CFOP_ABAP)** — 用 ABAP 实现 CFOP 法还原三阶魔方（趣味项目）。
 
-### 🌐 前端 / 博客 / 简历 / Front-end, Blog & Resume
-- **[astro-resume](https://github.com/Jack-Liang/astro-resume)** ⭐ — Astro 简历主题。
-- **[resume-jack-liang](https://github.com/Jack-Liang/resume-jack-liang)** — 基于 Astro 的单作者博客主题（Ovidius）。
+### 🌐 前端 / 博客 / Front-end & Blog
 - **[jack-liang.com](https://github.com/Jack-Liang/jack-liang.com)** — 个人网站（Astro）：博客、拾光与随想。
-- **[Jack-Liang.github.io](https://github.com/Jack-Liang/Jack-Liang.github.io)** — 个人博客（Jekyll / PWA）。
 
 ---
 
