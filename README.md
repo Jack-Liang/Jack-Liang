@@ -49,7 +49,7 @@ so traditional enterprise systems can feel modern too.
 ## 🚀 精选项目 / Featured Projects
 
 ### 🔌 连接 SAP 与现代技术 / Bridging SAP & Modern Stack
-- **[rust_sap_rfc](https://github.com/Jack-Liang/rust_sap_rfc)** — 用 Rust 调用 SAP RFC，打通企业系统与系统编程世界。
+- **[sap-for-agents](https://github.com/Jack-Liang/sap-for-agents)** — 用 Rust 调用 SAP RFC，打通企业系统与系统编程世界。
 - **[astro-hellosap](https://github.com/Jack-Liang/astro-hellosap)** — 基于 Astro 构建的 HelloSAP 站点。
 - **[stcod-vite-react](https://github.com/Jack-Liang/stcod-vite-react)** — Vite + React 学习实践项目。
 
